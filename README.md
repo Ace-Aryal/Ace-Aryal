@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Fipesh-Aryal
+- 👋 Hi, I’m Dipesh-Aryal
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on new ideas
-- 📫 Contacts ->LinkedIn - Dipesh Aryal , X-->dipesh_aeyal_
+- 📫 Contacts ->LinkedIn - Dipesh Aryal , X-->dipesh_aryal_
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The One Piece is real.
 

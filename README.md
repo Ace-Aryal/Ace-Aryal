@@ -16,15 +16,17 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-%F0%9F%90%9D%20React_Query-red?logo=react&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&style=for-the-badge)
 ![Axios](https://img.shields.io/badge/axios.js-854195?logo=axios&logoColor=5A29E4&style=for-the-badge)
+
 ![Context API](https://img.shields.io/badge/Context--Api-000000?logo=react&style=for-the-badge)
 ![ShadCN UI](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Mantine UI](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/react--hook--form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-%F0%9F%90%9D%20React_Query-red?logo=react&style=for-the-badge)
+
 
 
 # 📊 GitHub Stats:

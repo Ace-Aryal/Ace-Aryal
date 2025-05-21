@@ -24,6 +24,7 @@
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Mantine UI](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/react--hook--form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-%F0%9F%90%9D%20React_Query-red?logo=react&style=for-the-badge)
 
 
 # 📊 GitHub Stats:

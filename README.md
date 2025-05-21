@@ -20,7 +20,6 @@
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&style=for-the-badge)
 ![Axios](https://img.shields.io/badge/axios.js-854195?logo=axios&logoColor=5A29E4&style=for-the-badge)
-
 ![Context API](https://img.shields.io/badge/Context--Api-000000?logo=react&style=for-the-badge)
 ![ShadCN UI](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)

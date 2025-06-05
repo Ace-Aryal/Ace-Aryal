@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dipesh-Aryal
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Next.js
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You can't smile while biting your lower lip. 
 - 💫 I will be very grateful for even your smallest advice and guidance

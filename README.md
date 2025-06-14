@@ -11,6 +11,10 @@
 ![Axios](https://img.shields.io/badge/axios.js-854195?logo=axios&logoColor=5A29E4&style=for-the-badge)
 ![ShadCN UI](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
 ![Zustand](https://img.shields.io/badge/zustand-000?logo=zustand&logoColor=white&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
+![Zod](https://img.shields.io/badge/zod-3c2f4e?logo=zod&logoColor=ffffff&style=for-the-badge)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ace-aryal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>

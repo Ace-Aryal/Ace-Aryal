@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Dipesh-Aryal<br>👀 I’m interested in web development<br>🌱 I’m currently learning T3 stack<br>😄 Pronouns: He/Him<br>⚡ Fun fact: You can't smile while biting your lower lip.<br>💫Open for internships
+👋 Hi, I’m Dipesh-Aryal<br>👀 I’m interested in web development and mobile development<br>🌱 I’m currently learning Mobile Development<br>😄 Pronouns: He/Him<br>
 
 
 ## 🌐 Socials:

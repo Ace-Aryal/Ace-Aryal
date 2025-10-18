@@ -13,6 +13,7 @@
 ![Zustand](https://img.shields.io/badge/zustand-000?logo=zustand&logoColor=white&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![Zod](https://img.shields.io/badge/zod-3c2f4e?logo=zod&logoColor=ffffff&style=for-the-badge)
+![Expo](https://img.shields.io/badge/expo-000?logo=expo&logoColor=white&style=for-the-badge)
 
 
 

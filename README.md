@@ -13,7 +13,6 @@
 ![Axios](https://img.shields.io/badge/axios.js-854195?logo=axios&logoColor=5A29E4&style=for-the-badge)
 ![ShadCN UI](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
 ![Zustand](https://img.shields.io/badge/zustand-000?logo=zustand&logoColor=white&style=for-the-badge)
-![Prisma](https://img.shields.io/badge/prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
 ![Zod](https://img.shields.io/badge/zod-3c2f4e?logo=zod&logoColor=ffffff&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)

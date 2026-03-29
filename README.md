@@ -21,6 +21,9 @@
 ![JWT](https://img.shields.io/badge/json%20web%20token-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
 ![Clerk](https://img.shields.io/badge/clerk-6C47FF?logo=clerk&logoColor=white&style=for-the-badge)
 ![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?logo=githubcopilot&logoColor=white&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
+![Drizzle](https://img.shields.io/badge/drizzle-0C0C0C?logo=drizzle&logoColor=white&style=for-the-badge)
+![Pusher](https://img.shields.io/badge/pusher-300D4F?logo=pusher&logoColor=white&style=for-the-badge)
 
 
 

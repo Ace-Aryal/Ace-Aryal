@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Dipesh-Aryal<br>👀 I’m interested in web  and mobile <br>🌱 I’m currently learning mobile development<br>😄 Pronouns: He/Him<br>
+👋 Hi, I’m Dipesh-Aryal<br>👀 I’m interested in software development <br>🌱 I’m currently learning Django<br>😄 Pronouns: He/Him<br>
 
 
 ## 🌐 Socials:
